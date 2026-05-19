@@ -84,10 +84,3 @@ These features encourage transparency, community engagement, and allow stakehold
 
 ---
 
-This README keeps it **brief, structured, and portfolio-ready**, while including images, links, and technology details.  
-
----
-
-If you want, I can also **make a “CV-ready short description” version** of this README for GitHub so it’s only 5–6 lines and perfectly fits a CV/portfolio project section.  
-
-Do you want me to do that?
